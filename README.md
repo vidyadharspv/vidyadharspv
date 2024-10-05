@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Vidyadhar S P 
-- 👀 I’m interested in Cyber Security and Network domain 
-- 🌱 I’m currently having a Knowledge in Cybersecurity, Security Operation Center, Service Level Agrrement, Phishing and Malware Analysis, Firewalls, DNS, DHCP, Switching, Routing,
--     Log analysis, Vulnerability Management, Incident response, Email Security, 24/7 monitoring applications, raising tickets for validated incidents, Fine tuning, etc...
-- 💞️ I’m looking for job on Cybersecurity doamin as a fresher having above mentioned skills
--     (perfered roles:  * Security Analyst * Information Security Analyst * SOC Analyst * Cyber Security Anlayst Intern )...
-- 📫 If I'm looking suitable reach me with +91 9886591550, vidru.14@gmail.com, https://www.linkedin.com/in/spvidyadhar
-- 😄 Pronouns: Vidyadhar S P
-- ⚡ Fun fact: Please reach me!....
+	💞️ Hello world! 🌐 
+	🌱 I am an Cyber Security Expert  and specialize in Identifying and Resolving security issues 							
+ 	in computer systems and networks. who is obsessed with the idea of improving himself and        
+  	wants a platform to grow and excel.👨‍💻
+
+	⚡ I’m currently sleeping 😴 or working on my laptop 👨‍💻
+	👀 Eat, Sleep, Hack, Repeat 💪.
+	📫 I’m looking to collaborate on CyberSecurity projects.
+	📫 I’m looking for help with wifi connection 🌐
+	⚡ When we lose our principles, we invite chaos. 🧔
+
 
 <!---
 vidyadharspv/vidyadharspv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
